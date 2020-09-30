@@ -1,30 +1,24 @@
 {
-    "name": "webpack-strip-block",
+    "name": "webpack-strip-code",
     "version": "0.3.0",
-    "description": "Webpack plugin to strip blocks of code that's only intended for development purposes",
+    "description": "Webpack plugin to remove code from chunks",
     "main": "index.js",
     "repository": {
         "type": "git",
-        "url": "git://git@github.com/jballant/webpack-strip-block.git"
+        "url": "git://git@github.com/nasirbashir1/webpack-strip-block.git"
     },
-    "homepage": "https://github.com/jballant/webpack-strip-block",
+    "homepage": "https://github.com/nasirbashir1/webpack-strip-block",
     "keywords": [
         "webpack",
         "webpackloader",
-        "stripcode"
+        "stripcode",
+        "removecode"
     ],
     "author": {
-        "name": "James Ballantine",
-        "email": "james@1stdibs.com",
-        "url": "http://github.com/jballant"
+        "name": "Nasir Bashir",
+        "email": "nasir.bashir@fabhotels.com",
+        "url": "http://github.com/nasirbashir1"
     },
-    "contributors": [
-        {
-            "name": "Alexander Wunschik",
-            "email": "mail@wunschik.it",
-            "url": "http://www.wunschik.it"
-        }
-    ],
     "license": "MIT",
     "peerDependencies": {
         "webpack": ">=2.2.0"
