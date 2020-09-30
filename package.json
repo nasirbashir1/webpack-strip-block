@@ -33,6 +33,6 @@
         "webpack": "^4.42.1"
     },
     "scripts": {
-        "test": "mocha"
+        "test": ""
     }
 }

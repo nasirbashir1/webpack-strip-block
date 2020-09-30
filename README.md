@@ -55,8 +55,16 @@ module.exports = {
         {
           loader: 'webpack-strip-block',
           options: {
-            start: 'DEV-START',
-            end: 'DEV-END'
+            choiceArray: [
+              {
+                start: 'DEV-START',
+                end: 'DEV-END'
+              },
+              {
+                start: 'PROD-START',
+                end: 'PROD-END'
+              }
+            ]
           }
         }
       ]
