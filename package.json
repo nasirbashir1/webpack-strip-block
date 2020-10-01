@@ -5,9 +5,9 @@
     "main": "index.js",
     "repository": {
         "type": "git",
-        "url": "git://git@github.com/nasirbashir1/webpack-strip-block.git"
+        "url": ""
     },
-    "homepage": "https://github.com/nasirbashir1/webpack-strip-block",
+    "homepage": "",
     "keywords": [
         "webpack",
         "webpackloader",
@@ -16,8 +16,7 @@
     ],
     "author": {
         "name": "Nasir Bashir",
-        "email": "nasir.bashir@fabhotels.com",
-        "url": "http://github.com/nasirbashir1"
+        "email": "nasir.bashir@fabhotels.com"
     },
     "license": "MIT",
     "peerDependencies": {
