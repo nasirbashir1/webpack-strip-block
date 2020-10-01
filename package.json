@@ -1,6 +1,6 @@
 {
     "name": "webpack-strip-code",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Webpack plugin to remove code from chunks",
     "main": "index.js",
     "repository": {
